@@ -28,3 +28,5 @@ Description: Simple version of a calculator with basic functions.
 
 How to use:
 Compile and run the Calculator.java file under the Calculator folder (which should be inside the projects-master folder).
+
+hi will this work?
