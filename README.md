@@ -1,11 +1,9 @@
 # projects
-Instructions: Download the projects repository as a zip file. Once downloaded and unzipped, it will be called "projects-master". Inside the folder will be the following code projects:
+Instructions: Download the projects repository as a zip file. Once downloaded and unzipped, it will be called "projects-master". Inside the folder will be the following code projects (all in JAVA):
 
-(1) World War 3
+(1) World War 3 
 Description: World War 3 is a game that simulates a world war 3 scenario in which the player chooses a continent of the world
 to defend and must conquer the rest of the world while trying to minimize time taken, money used, and casualties.
-
-Language: Java
 
 How to play the game: 
 Compile and run the file WorldWar3.java under the World War 3 directory in the terminal window. More detailed instructions provided in the game.
