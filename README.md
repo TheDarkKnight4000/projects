@@ -21,3 +21,10 @@ Description: Simple version of a calendar. The user can select the month from a 
 
 How to use:
 Compile and run the Calendar.java file under the Calendar folder (which should be inside the projects-master folder).
+
+------------------------------------------------------------------------------------------------------------------------------
+(4) Calculator
+Description: Simple version of a calculator with basic functions.
+
+How to use:
+Compile and run the Calculator.java file under the Calculator folder (which should be inside the projects-master folder).
