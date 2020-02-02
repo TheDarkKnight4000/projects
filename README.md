@@ -15,3 +15,9 @@ Description: Simple remake of the well known game of Hangman. One player mode al
 How to play the game: 
 Compile and run the HangmanReal.java file under the Hangman folder (which should be inside the projects-master folder). 
 
+------------------------------------------------------------------------------------------------------------------------------
+(3) Calendar
+Description: Simple version of a calendar. The user can select the month from a drop down menu and change the year by typing in the text field with the year.
+
+How to use:
+Compile and run the Calendar.java file under the Calendar folder (which should be inside the projects-master folder).
